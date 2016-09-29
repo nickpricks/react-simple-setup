@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feaf4f88-4529-4704-91b1-34bd34acc1e2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/main.js" afterPath="$PROJECT_DIR$/build/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="test-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,9 +125,9 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
+    <option name="x" value="76" />
     <option name="y" value="95" />
-    <option name="width" value="1198" />
+    <option name="width" value="1197" />
     <option name="height" value="985" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -321,12 +317,12 @@
       <workItem from="1474524968209" duration="296000" />
       <workItem from="1474527343885" duration="278000" />
       <workItem from="1474531727972" duration="1434000" />
-      <workItem from="1475128978371" duration="179000" />
+      <workItem from="1475128978371" duration="571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20664000" />
+    <option name="totallyTimeSpent" value="21056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +334,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="95" width="1198" height="985" extended-state="0" />
+    <frame x="76" y="95" width="1197" height="985" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
